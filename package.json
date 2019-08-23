@@ -1,0 +1,13 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Node Server",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Edip Kavvas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
